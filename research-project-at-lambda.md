@@ -22,6 +22,7 @@
 - [Which papers can I read to catch up on the latest trends in NLP?](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 - [Troubleshooting neural nets](http://josh-tobin.com/troubleshooting-deep-neural-networks.html): a handy guide if you find yourself in neural IR land and need to debug your models!
 - [NLP recipes in Jupyter notebook form](https://github.com/microsoft/nlp-recipes)
+- [Behavioral Testing of NLP Models with CheckList](https://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf)
 
 ## A few useful DL resources
 - Attention/transformer blog posts: [1](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) and [2](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
