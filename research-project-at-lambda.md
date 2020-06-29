@@ -22,7 +22,6 @@
 - [Which papers can I read to catch up on the latest trends in NLP?](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 - [Troubleshooting neural nets](http://josh-tobin.com/troubleshooting-deep-neural-networks.html): a handy guide if you find yourself in neural IR land and need to debug your models!
 - [NLP recipes in Jupyter notebook form](https://github.com/microsoft/nlp-recipes)
-- [Behavioral Testing of NLP Models with CheckList](https://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf)
 
 ## A few useful DL resources
 - Attention/transformer blog posts: [1](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) and [2](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
@@ -33,6 +32,7 @@
 ## Checklists
 - For machine learning oriented projects: [ML code completeness checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
 - For interactive IR projects: [Elements of IIR studies](http://toinebogers.com/biirrr2019/proceedings/biirrr2019-petras-1.pdf)
+- [Behavioral Testing of NLP Models with CheckList](https://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf)
 
 ## Presenting your work
 - To a Twitter audience via [Twitter posters](https://twitter.com/mikemorrison/status/1242445150619607040)
