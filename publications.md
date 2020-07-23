@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2020
 
+<img src="../img/conference-paper.png" height="20px">
+Gustavo Penha and Claudia Hauff. *What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation*, accepted at RecSys 2020.
+
 <img src="../img/workshop-paper.png" height="20px">
 Gustavo Penha and Claudia Hauff. *Challenges in the Evaluation of Conversational Search Systems*, accepted at the KDD 2020 [Workshop on Conversational Systems Towards Mainstream Adoption](https://conversekdd20.github.io/index.html). [[PDF Preprint&#8594;]](../documents/publications/KDDConverse2020-Penha.pdf)
 
