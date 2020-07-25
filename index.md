@@ -5,14 +5,11 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
+- Full paper accepted at RecSys 2020 asking the question *What does BERT know about books, movies and music?* (work led by Gustavo Penha).
 - I gave a keynote at [Baltic DB&IS 2020](https://dbis.ttu.ee/) to convince the audience to make BERT their new IR baseline: [slides](https://docs.google.com/presentation/d/e/2PACX-1vQu5aCFGV_cvTbt8fXMf_CIDPbVjBJdYGSYHbi4D126hO8Zqv6jwrEpQAHGm9uQfIKGxMPpQ1HVkP1P/pub?start=false&loop=false&delayms=3000)!
 - Two full papers accepted at [ECIR 2020](https://ecir2020.org/): one on curriculum learning for IR (led by Gustavo Penha) and one on analyzing BERT with retrieval heuristics (led by Arthur Câmara).
 - As of late 2019, I am looking for *MSc thesis students* interested in the topics of **information retrieval** and **natural language processing**!
 - Freshly elected member of the ACM SIGIR executive committee, my three-year term starts July 1, 2019!
-- [My talk (June 12, 2019)](https://docs.google.com/presentation/d/e/2PACX-1vQPIJ-ymT8Ff-nvBZMb2O8-i_rSp2FObDab891tLpGPueQCJh2ReWI-I72hhLpivT1ZPfbKf3YVXDDo/pub?start=false&loop=false&delayms=3000) at the [Delft Deep Learning Colloqium](http://jvgemert.github.io/DDLC19/)
-- [SEA meetup slides (April 26, 2019)](https://docs.google.com/presentation/d/e/2PACX-1vQjhxNAE4g4Zcx_ArpphcVCGKOe2N4GE-QQ6CEMxcNLu--hZtO-MF6rvouVxO3KAViHtQzTZIvUOhzf/pub?start=false&loop=false&delayms=3000)
-- [Blog post](https://chauff.github.io/2018-12-12-groupsize/) about our latest Information Retrieval Journal article is up where we explore the impact of group size on collaborative search effectiveness.
-- As of October 2018 I have created [extensive lectures materials](https://github.com/chauff/Web-Teaching) (assignments, transcripts, demo applications, exams) for my first year BSc Computer Science & Engineering web technology lectures. 
 
 <p>
  <a class="twitter-timeline"
