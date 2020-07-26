@@ -29,6 +29,8 @@
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 - [fastai courses](https://www.fast.ai/)
 - [Embeddings in NLP](http://josecamachocollados.com/book_embNLP_draft.pdf)
+- [Made with ML](https://madewithml.com/)
+- [Papers with Code](https://paperswithcode.com/)
 
 ## Checklists
 - For machine learning oriented projects: [ML code completeness checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
