@@ -36,6 +36,7 @@
 - For machine learning oriented projects: [ML code completeness checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
 - For interactive IR projects: [Elements of IIR studies](http://toinebogers.com/biirrr2019/proceedings/biirrr2019-petras-1.pdf)
 - [Behavioral Testing of NLP Models with CheckList](https://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf)
+- [Paper writing checklist](https://t.co/BVgVagDQCt)
 
 ## Presenting your work
 - To a Twitter audience via [Twitter posters](https://twitter.com/mikemorrison/status/1242445150619607040)
