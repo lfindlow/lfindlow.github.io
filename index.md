@@ -105,7 +105,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## Organizational duties and activities
-- Guest editor of an ACM TOIS special issue on Conversational Search
+- CHIIR 2022 demo co-chair
+- Guest editor of an ACM TOIS special issue on Conversational Search (summer of 2020)
 - Invited keynote at the [1st International Workshop on Investigating Learning During Web Search](https://iwilds2020.wordpress.com/) co-located with CIKM 2020
 - Short paper co-chair at SIGIR 2021
 - Workshop co-chair at WSDM 2021
