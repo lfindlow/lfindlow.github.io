@@ -76,36 +76,9 @@ in the book.
 
 #### Web Technology Transcripts, Demo code, etc.
 
-In the 2018/19 edition, we have roughly 900 students taking the course and so I finally bit the bullet and made extensive lecture transcripts and demo code and wrote it up all in a GitHub repository: [https://github.com/chauff/Web-Teaching](https://github.com/chauff/Web-Teaching).
+In the 2018/19 edition, we had roughly 900 students taking the course and so I finally bit the bullet and made extensive lecture transcripts and demo code and wrote it up all. I am currently reorganizing the materials. The website is up at: https://chauff.github.io/Web-Teaching/.
 
-Feel free to use the materials (with acknowledgement)!
-
-#### Web Technology Slides - 2017/18 Edition  
-- HTTP: slide decks [1](../documents/webdb-2017-18/web-http.pdf) and [2](../documents/webdb-2017-18/web-http-continued.pdf)
-- [HTML and Web app design](../documents/webdb-2017-18/web-html5.pdf)
-- [Client-side JavaScript](../documents/webdb-2017-18/web-javascript.pdf)
-- [Server-side JavaScript](../documents/webdb-2017-18/web-nodejs.pdf)
-- [CSS](../documents/webdb-2017-18/web-css3.pdf)
-- [Server-side JavaScript continued](../documents/webdb-2017-18/web-nodejs-continued.pdf)
-- [Cookies and sessions](../documents/webdb-2017-18/web-cookies-sessions.pdf)
-- [Securing your application](../documents/webdb-2017-18/web-security.pdf)
-
-#### Lab Assignments - 2017/18 Edition
-Note: this course has five assignments and at the end the students will have developed a fully functioning Web application (in this year a *habit tracker*) with a database backend. The assignments build on each other and are executed in groups of two students; interviews with TAs lead to a pass or fail of an assignment.
-- [Lab 1](../documents/webdb-2017-18/Lab1.pdf) 
-- [Lab 2](../documents/webdb-2017-18/Lab2.pdf)
-- [Lab 3](../documents/webdb-2017-18/Lab3.pdf)
-- [Lab 4](../documents/webdb-2017-18/Lab4.pdf)
-- [Lab 5](../documents/webdb-2017-18/Lab5.pdf)
-
-
-#### A Sample of Previous Exams
-Note: the samples below include database questions, which are covered in the other half of the course
-- [Midterm 2015/16](../documents/webdb-2017-18/midterm2.pdf)
-- [Final 2015/16](../documents/webdb-2017-18/final2.pdf)
-- [Midterm 2016/17](../documents/webdb-2017-18/midterm1.pdf)
-- [Final 2016/117](../documents/webdb-2017-18/final1.pdf)
-
+Last year's slides in PDF format are available at https://github.com/chauff/Web-Teaching/tree/master/slides/2019_20. 
 
 ### Information Retrieval
 
