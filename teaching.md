@@ -68,11 +68,7 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 
 ### Web (and Database) Technology
 Since 2013/2014 I have also been teaching the first year Bachelor course *Web and Database Technology* (known as TI1506 or CSE1500) at TU Delft, together with
-[Alessandro Bozzon](http://alessandrobozzon.com/). I teach the Web technology part, which turned out to be quite a challenge due to
-the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML
-before the start of this course). To level the playing field for the more than 300 (or 400, 500, 600,... it is increasing every year) students we have, we rely on the [Learning Web App Development](http://learningwebappdev.com/)
-book, which introduces the modern Web stack in an accessible and practical manner. The lectures build on the material introduced
-in the book.
+[Alessandro Bozzon](http://alessandrobozzon.com/). 
 
 #### Web Technology Transcripts, Demo code, etc.
 
