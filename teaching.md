@@ -72,9 +72,9 @@ Since 2013/2014 I have also been teaching the first year Bachelor course *Web an
 
 #### Web Technology Transcripts, Demo code, etc.
 
-In the 2018/19 edition, we had roughly 900 students taking the course and so I finally bit the bullet and made extensive lecture transcripts and demo code and wrote it up all. I am currently reorganizing the materials. The website is up at: https://chauff.github.io/Web-Teaching/.
+In the 2018/19 edition, we had roughly 900 students taking the course and so I finally bit the bullet and made extensive lecture transcripts and demo code and wrote it up all. I am currently reorganizing the materials. The website is up at: [https://chauff.github.io/Web-Teaching/](https://chauff.github.io/Web-Teaching/).
 
-Last year's slides in PDF format are available at https://github.com/chauff/Web-Teaching/tree/master/slides/2019_20. 
+Last year's slides in PDF format are available at [https://github.com/chauff/Web-Teaching/tree/master/slides/2019_20](https://github.com/chauff/Web-Teaching/tree/master/slides/2019_20). 
 
 ### Information Retrieval
 
