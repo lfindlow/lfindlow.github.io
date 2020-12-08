@@ -11,7 +11,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 Arthur Câmara, Nirmal Roy, David Maxwell and Claudia Hauff. *Searching to Learn with Instructional Scaffolding*, accepted at CHIIR 2021.
 
 <img src="../img/conference-paper.png" height="20px">
-Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *Note the highlight* (or: *Incorporating Active Reading Tools for Search As Learning*), accepted at CHIIR 2021.
+Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *Note the Highlight: Incorporating Active Reading Tools for Search As Learning*, accepted at CHIIR 2021.
 
 ## 2020
 
