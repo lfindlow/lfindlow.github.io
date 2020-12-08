@@ -5,6 +5,14 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
+## 2021
+
+<img src="../img/conference-paper.png" height="20px">
+Arthur Câmara, Nirmal Roy, David Maxwell and Claudia Hauff. *Searching to Learn with Instructional Scaffolding*, accepted at CHIIR 2021.
+
+<img src="../img/conference-paper.png" height="20px">
+Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *Note the highlight* (or: *Incorporating Active Reading Tools for Search As Learning*), accepted at CHIIR 2021.
+
 ## 2020
 
 <img src="../img/conference-paper.png" height="20px">
