@@ -5,7 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
-- Revamping of my first year BSc [Web Technology website](https://chauff.github.io/Web-Teaching/) (as part of the Web and Database Technology course) is in full swing. 
+- Two long papers accepted at CHIIR 2021: *Searching to Learn with Instructional Scaffolding* (led by Arthur Câmara) and *Note the Highlight: Incorporating Active Reading Tools for Search As Learning* (led by Nirmal Roy).
 - Full paper accepted at RecSys 2020 asking the question *What does BERT know about books, movies and music?* (work led by Gustavo Penha).
 - I gave a keynote at [Baltic DB&IS 2020](https://dbis.ttu.ee/) to convince the audience to make BERT their new IR baseline: [slides](https://docs.google.com/presentation/d/e/2PACX-1vQu5aCFGV_cvTbt8fXMf_CIDPbVjBJdYGSYHbi4D126hO8Zqv6jwrEpQAHGm9uQfIKGxMPpQ1HVkP1P/pub?start=false&loop=false&delayms=3000)!
 - Two full papers accepted at [ECIR 2020](https://ecir2020.org/): one on curriculum learning for IR (led by Gustavo Penha) and one on analyzing BERT with retrieval heuristics (led by Arthur Câmara).
