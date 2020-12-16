@@ -13,7 +13,7 @@ Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff.
 <img src="../img/conference-short-paper.png" height="20px"> 
 Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, accepted at ECIR 2021.
 
-<img src="../img/conference-short-paper.png" height="20px"> 
+<img src="../img/demo-paper.png" height="20px">
 David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, accepted at ECIR 2021.
 
 <img src="../img/conference-paper.png" height="20px">
