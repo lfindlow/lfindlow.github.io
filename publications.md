@@ -7,11 +7,14 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2021
 
-<img src="../img/conference-short-paper.png" height="20px"> Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *How Do Active Reading Strategies Affect Learning Outcomes in Web Search?*, accepted at ECIR 2021.
+<img src="../img/conference-short-paper.png" height="20px"> 
+Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *How Do Active Reading Strategies Affect Learning Outcomes in Web Search?*, accepted at ECIR 2021.
 
-<img src="../img/conference-short-paper.png" height="20px"> Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, accepted at ECIR 2021.
+<img src="../img/conference-short-paper.png" height="20px"> 
+Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, accepted at ECIR 2021.
 
-<img src="../img/conference-short-paper.png" height="20px"> David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, accepted at ECIR 2021.
+<img src="../img/conference-short-paper.png" height="20px"> 
+David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, accepted at ECIR 2021.
 
 <img src="../img/conference-paper.png" height="20px">
 Arthur Câmara, Nirmal Roy, David Maxwell and Claudia Hauff. *Searching to Learn with Instructional Scaffolding*, accepted at CHIIR 2021.
