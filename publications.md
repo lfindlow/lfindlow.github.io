@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2021
 
+<img src="../img/conference-paper.png" height="20px"> 
+Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural Learning to Rank Models*, accepted at EACL 2021.
+
 <img src="../img/conference-short-paper.png" height="20px"> 
 Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *How Do Active Reading Strategies Affect Learning Outcomes in Web Search?*, accepted at ECIR 2021.
 
