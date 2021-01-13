@@ -8,7 +8,8 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2021
 
 <img src="../img/conference-paper.png" height="20px"> 
-Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural Learning to Rank Models*, accepted at EACL 2021.
+Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural Learning to Rank Models*, accepted at EACL 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2101.04356)
+
 
 <img src="../img/conference-short-paper.png" height="20px"> 
 Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *How Do Active Reading Strategies Affect Learning Outcomes in Web Search?*, accepted at ECIR 2021.
@@ -28,22 +29,22 @@ Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff.
 ## 2020
 
 <img src="../img/conference-paper.png" height="20px">
-Gustavo Penha and Claudia Hauff. *What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation*, accepted at RecSys 2020.
+Gustavo Penha and Claudia Hauff. *What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation*, RecSys, pp. 388-397, 2020.
 
 <img src="../img/workshop-paper.png" height="20px">
 Gustavo Penha and Claudia Hauff. *Challenges in the Evaluation of Conversational Search Systems*, accepted at the KDD 2020 [Workshop on Conversational Systems Towards Mainstream Adoption](https://conversekdd20.github.io/index.html). [[PDF Preprint&#8594;]](../documents/publications/KDDConverse2020-Penha.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Nirmal Roy, Felipe Moraes and Claudia Hauff. *Exploring Users' Learning Gains within Search Sessions*, accepted at CHIIR 2020. [[PDF Preprint&#8594;]](../documents/publications/CHIIR2020-Roy.pdf)
+Nirmal Roy, Felipe Moraes and Claudia Hauff. *Exploring Users' Learning Gains within Search Sessions*, CHIIR, pp. 432-436, 2020. [[PDF Preprint&#8594;]](../documents/publications/CHIIR2020-Roy.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
-Gustavo Penha and Claudia Hauff. *Curriculum Learning Strategies for IR: An Empirical Study on Conversation Response Ranking*, accepted at ECIR 2020. [[PDF Preprint&#8594;]](../documents/publications/ECIR2020-Penha.pdf)
+Gustavo Penha and Claudia Hauff. *Curriculum Learning Strategies for IR: An Empirical Study on Conversation Response Ranking*, ECIR, pp. 1:699-713, 2020. [[PDF Preprint&#8594;]](../documents/publications/ECIR2020-Penha.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
-Arthur Câmara and Claudia Hauff. *Diagnosing BERT with Retrieval Heuristics*, accepted at ECIR 2020. [[PDF Preprint&#8594;]](../documents/publications/ECIR2020-Camara.pdf)
+Arthur Câmara and Claudia Hauff. *Diagnosing BERT with Retrieval Heuristics*, ECIR, pp. 1:605-618, 2020. [[PDF Preprint&#8594;]](../documents/publications/ECIR2020-Camara.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
-Manuel Valle Torre, Esther Tan and Claudia Hauff. *EdX Log Data Analysis Made Easy*, accepted at the 10th International Conference on Learning Analytics and Knowledge (LAK20). [[PDF Preprint&#8594;]](../documents/publications/LAK2020-Torre.pdf) [[ELAT demo&#8594;]](https://mvallet91.github.io/ELAT-Workbench/)
+Manuel Valle Torre, Esther Tan and Claudia Hauff. *EdX Log Data Analysis Made Easy*, LAK, pp. 502-511, 2020. [[PDF Preprint&#8594;]](../documents/publications/LAK2020-Torre.pdf) [[ELAT demo&#8594;]](https://mvallet91.github.io/ELAT-Workbench/)
 
 ## 2019 
 
@@ -53,12 +54,7 @@ Gustavo Penha, Alexandru Balan and Claudia Hauff, *Introducing MANtIS: a novel M
 Adam Roegiest, Aldo Lipani, Alex Beutel, Alexandra Olteanu, Ana Lucic, Ana-Andreea Stoica, Anubrata Das, Asia Biega, Bart Voorn, Claudia Hauff, Damiano Spina, David Lewis, Douglas W. Oard, Emine Yilmaz, Faegheh Hasibi, Gabriella Kazai, Graham McDonald, Hinda Haned, Iadh Ounis, Ilse van der Linden, Jean Garcia-Gathright, Joris Baan, Kamuela N. Lau, Krisztian Balog,  Maarten de Rijke, Mahmoud Sayed, Maria Panteli, Mark Sanderson, Matthew Lease, Michael D. Ekstrand, Preethi Lahoti and Toshihiro Kamishima, *FACTS-IR: Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval*. SIGIR Forum, Vol. 53, No. 2, 2019. [[SIGIR Forum article]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/roegiest-2019-facts-ir.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
-Dimitrios Bountouridis, Mykola Makhortykh, Emily Sullivan, Jaron Harambam, Nava Tintarev and Claudia Hauff, 
-*Annotating Credibility: Identifying and Mitigating Bias in Credibility Datasets*, 
-[Workshop on
-Reducing Online Misinformation Exposure](https://rome2019.github.io/),
-co-located with SIGIR 2019.
-[[PDF&#8594;]](https://rome2019.github.io/papers/Bountouridis_etal_ROME2019.pdf)
+Dimitrios Bountouridis, Mykola Makhortykh, Emily Sullivan, Jaron Harambam, Nava Tintarev and Claudia Hauff, *Annotating Credibility: Identifying and Mitigating Bias in Credibility Datasets*, [Workshop on Reducing Online Misinformation Exposure](https://rome2019.github.io/), co-located with SIGIR 2019. [[PDF&#8594;]](https://rome2019.github.io/papers/Bountouridis_etal_ROME2019.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
 Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai and Ze Zhong Wu. *The SIGIR 2019 Open-Source IR Replicability Challenge ([OSIRRC 2019](https://osirrc.github.io/osirrc2019/))*, SIGIR, pp. 1432-1434, 2019. [[ACM Portal&#8594;]](https://dl.acm.org/citation.cfm?id=3331647) [[Extended version PDF&#8594;]](http://ceur-ws.org/Vol-2409/invited01.pdf)
