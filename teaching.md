@@ -67,14 +67,17 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 
 
 ### Web (and Database) Technology
+
 Since 2013/2014 I have also been teaching the first year Bachelor course *Web and Database Technology* (known as TI1506 or CSE1500) at TU Delft, together with
-[Alessandro Bozzon](http://alessandrobozzon.com/). 
+[Alessandro Bozzon](http://alessandrobozzon.com/). I teach the Web technology part, which turned out to be quite a challenge due to
+the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML
+before the start of this course). 
 
-#### Web Technology Transcripts, Demo code, etc.
+In the 2018/19 edition, we had roughly 900 students taking the course and so I finally bit the bullet and started making extensive lecture transcripts (with self-check questions, demo code, assignments, etc.), split the materials into GitHub repos and created a good looking website: [https://chauff.github.io/Web-Teaching/](https://chauff.github.io/Web-Teaching/).
 
-In the 2018/19 edition, we had roughly 900 students taking the course and so I finally bit the bullet and made extensive lecture transcripts and demo code and wrote it up all. I am currently reorganizing the materials. The website is up at: [https://chauff.github.io/Web-Teaching/](https://chauff.github.io/Web-Teaching/).
+Feel free to use the materials with acknowledgement.
 
-Last year's slides in PDF format are available at [https://github.com/chauff/Web-Teaching/tree/master/slides/2019_20](https://github.com/chauff/Web-Teaching/tree/master/slides/2019_20). 
+Needless to say that this is ongoing work at all times - web tech changes quickly.
 
 ### Information Retrieval
 
