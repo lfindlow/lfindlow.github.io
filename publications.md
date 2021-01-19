@@ -14,8 +14,7 @@ Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural L
 Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *How Do Active Reading Strategies Affect Learning Outcomes in Web Search?*, accepted at ECIR 2021.
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, accepted at ECIR 2021.
-
+Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, accepted at ECIR 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2012.08575) 
 <img src="../img/demo-paper.png" height="20px">
 David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, accepted at ECIR 2021.
 
