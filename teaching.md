@@ -81,4 +81,4 @@ Needless to say that this is ongoing work at all times - web tech changes quickl
 
 ### Information Retrieval
 
-In 2019/20 I have co-taught the course with Nava Tintarev, splitting it along an IR and NLP line. The setup, slides and group projects can be found [here](https://github.com/chauff/IN4325).
+In 2019/20 I co-taught the MSc Information Retrieval course with Nava Tintarev, splitting it along an IR and NLP line. The course setup, slides and group projects can be found [here](https://github.com/chauff/IN4325).
