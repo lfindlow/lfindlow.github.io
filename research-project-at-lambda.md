@@ -49,3 +49,4 @@
 - https://www.gitbook.com/
 - https://miro.com
 - Productivity during the pandemic: https://www.youtube.com/watch?v=snAhsXyO3Ck
+- https://foambubble.github.io/foam/
