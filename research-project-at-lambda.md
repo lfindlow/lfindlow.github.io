@@ -43,7 +43,9 @@
 ## Presenting your work
 - To a Twitter audience via [Twitter posters](https://twitter.com/mikemorrison/status/1242445150619607040)
 
-## Tools to organize your thoughts/ideas
+## Organizing your thoughts/ideas
 - https://obsidian.md
 - https://roamresearch.com/
 - https://www.gitbook.com/
+- https://miro.com
+- Productivity during the pandemic: https://www.youtube.com/watch?v=snAhsXyO3Ck
