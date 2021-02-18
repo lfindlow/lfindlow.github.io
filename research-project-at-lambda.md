@@ -45,7 +45,7 @@
 
 ## Organizing your thoughts/ideas
 - https://obsidian.md
-- https://roamresearch.com/
+- https://roamresearch.com/ ([Zettelkasten in Roam](https://www.roambrain.com/implementing-zettelkasten-in-roam))
 - https://www.gitbook.com/
 - https://miro.com
 - Productivity during the pandemic: https://www.youtube.com/watch?v=snAhsXyO3Ck
