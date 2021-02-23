@@ -44,12 +44,13 @@
 - To a Twitter audience via [Twitter posters](https://twitter.com/mikemorrison/status/1242445150619607040)
 
 ## Organizing your thoughts/ideas
-- https://obsidian.md
+- [Obsidian](https://obsidian.md)
   - In combination with Obsidian, [espanso](https://espanso.org/) will be useful (e.g. to write `/today` instead of writing out today's date).
   - Watch [this YouTube video](https://www.youtube.com/watch?v=X61wRmfZU8Y) to learn about useful plugins for Obsidian.
   - Learn how to create a [Zettelkasten](https://forum.obsidian.md/t/simple-zettelkasten-guide/3054) in Obsidian.
-- https://roamresearch.com/ ([Zettelkasten in Roam](https://www.roambrain.com/implementing-zettelkasten-in-roam))
-- https://www.gitbook.com/
-- https://miro.com
-- Productivity during the pandemic: https://www.youtube.com/watch?v=snAhsXyO3Ck
-- https://foambubble.github.io/foam/
+- [Roam Research](https://roamresearch.com/) (costs money, in contrast to Obsidian)
+  - Learn how to create a [Zettelkasten in Roam](https://www.roambrain.com/implementing-zettelkasten-in-roam).
+- [Gitbook](https://www.gitbook.com/)
+- [Miro](https://miro.com), an online whiteboard for visual collaboration.
+- Productivity during the pandemic: https://www.youtube.com/watch?v=snAhsXyO3Ck.
+- [Foam, similar to Obsidian and Roam inside of Visual Studio Code](https://foambubble.github.io/foam/).
