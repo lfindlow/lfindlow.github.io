@@ -45,6 +45,9 @@
 
 ## Organizing your thoughts/ideas
 - https://obsidian.md
+  - In combination with Obsidian, [espanso](https://espanso.org/) will be useful (e.g. to write `/today` instead of writing out today's date).
+  - Watch [this YouTube video](https://www.youtube.com/watch?v=X61wRmfZU8Y) to learn about useful plugins for Obsidian.
+  - Learn how to create a [Zettelkasten](https://forum.obsidian.md/t/simple-zettelkasten-guide/3054) in Obsidian.
 - https://roamresearch.com/ ([Zettelkasten in Roam](https://www.roambrain.com/implementing-zettelkasten-in-roam))
 - https://www.gitbook.com/
 - https://miro.com
