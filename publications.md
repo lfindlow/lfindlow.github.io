@@ -20,7 +20,9 @@ Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, accepted a
 David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, accepted at ECIR 2021.
 
 <img src="../img/conference-paper.png" height="20px">
-Arthur Câmara, Nirmal Roy, David Maxwell and Claudia Hauff. *Searching to Learn with Instructional Scaffolding*, accepted at CHIIR 2021. [[Video presentation&#8594;]](https://www.youtube.com/watch?v=U38wcNvUUhY)
+<img src="../img/award.png" height="30px">
+Arthur Câmara, Nirmal Roy, David Maxwell and Claudia Hauff. *Searching to Learn with Instructional Scaffolding*, accepted at CHIIR 2021.
+<span style="color:red">It received the "Best Student Paper Award."</span> [[Video presentation&#8594;]](https://www.youtube.com/watch?v=U38wcNvUUhY)
 
 <img src="../img/conference-paper.png" height="20px">
 Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *Note the Highlight: Incorporating Active Reading Tools for Search As Learning*, accepted at CHIIR 2021. [[Video presentation&#8594;]](https://www.youtube.com/watch?v=Qya5JBKdAeE)
