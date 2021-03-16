@@ -22,7 +22,7 @@ David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for
 <img src="../img/conference-paper.png" height="20px">
 <img src="../img/award.png" height="30px">
 Arthur Câmara, Nirmal Roy, David Maxwell and Claudia Hauff. *Searching to Learn with Instructional Scaffolding*, accepted at CHIIR 2021.
-<span style="color:red">It received the "Best Student Paper Award."</span> [[Video presentation&#8594;]](https://www.youtube.com/watch?v=U38wcNvUUhY)
+<span style="color:red">It received the "Best Student Paper Award."</span> [[Video presentation&#8594;]](https://www.youtube.com/watch?v=U38wcNvUUhY) [[PDF Preprint&#8594;]](../documents/publications/CHIIR2021-Camara.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *Note the Highlight: Incorporating Active Reading Tools for Search As Learning*, accepted at CHIIR 2021. [[Video presentation&#8594;]](https://www.youtube.com/watch?v=Qya5JBKdAeE)
