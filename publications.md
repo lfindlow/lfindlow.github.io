@@ -5,7 +5,7 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
-## 2021
+## 2021 <img src="../img/award.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
 Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural Learning to Rank Models*, accepted at EACL 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2101.04356)
@@ -47,7 +47,7 @@ Arthur Câmara and Claudia Hauff. *Diagnosing BERT with Retrieval Heuristics*, E
 <img src="../img/conference-paper.png" height="20px">
 Manuel Valle Torre, Esther Tan and Claudia Hauff. *EdX Log Data Analysis Made Easy*, LAK, pp. 502-511, 2020. [[PDF Preprint&#8594;]](../documents/publications/LAK2020-Torre.pdf) [[ELAT demo&#8594;]](https://mvallet91.github.io/ELAT-Workbench/)
 
-## 2019 
+## 2019 <img src="../img/award.png" height="30px">
 
 Gustavo Penha, Alexandru Balan and Claudia Hauff, *Introducing MANtIS: a novel Multi-Domain Information Seeking Dialogues Dataset*, 2019. [[arXiv Preprint&#8594;]](https://arxiv.org/abs/1912.04639) [[Dataset&#8594;]](https://guzpenha.github.io/MANtIS/)
 
@@ -68,7 +68,6 @@ Felipe Moraes, Kilian Grashoff and Claudia Hauff. *On the Impact of Group Size o
 Felipe Moraes and Claudia Hauff. *node-indri: moving the Indri toolkit to the modern Web stack*, ECIR, pp. 2:241-2:245, 2019.
 <span style="color:red">It received the "Best Demo Paper Award."</span>
 [[PDF Preprint&#8594;]](../documents/publications/ECIR2019-moraes.pdf) [[Springer journal&#8594;]](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_32)
-
 
 <img src="../img/conference-paper.png" height="20px">
 Daniël Rennings, Felipe Moraes and Claudia Hauff. *An Axiomatic Approach to Diagnosing Neural IR Models*, ECIR, pp. 1:489-1:503, 2019. [[PDF Preprint&#8594;]](../documents/publications/ECIR2019-rennings.pdf) [[Springer journal&#8594;]](https://link.springer.com/chapter/10.1007/978-3-030-15712-8_32)
