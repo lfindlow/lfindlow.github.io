@@ -25,7 +25,7 @@ Arthur Câmara, Nirmal Roy, David Maxwell and Claudia Hauff. *Searching to Learn
 <span style="color:red">It received the "Best Student Paper Award."</span> [[Video presentation&#8594;]](https://www.youtube.com/watch?v=U38wcNvUUhY) [[PDF Preprint&#8594;]](../documents/publications/CHIIR2021-Camara.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
-Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *Note the Highlight: Incorporating Active Reading Tools for Search As Learning*, accepted at CHIIR 2021. [[Video presentation&#8594;]](https://www.youtube.com/watch?v=Qya5JBKdAeE)
+Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *Note the Highlight: Incorporating Active Reading Tools for Search As Learning*, accepted at CHIIR 2021. [[Video presentation&#8594;]](https://www.youtube.com/watch?v=Qya5JBKdAeE) [[PDF Preprint&#8594;]](../documents/publications/CHIIR2021-Roy.pdf)
 
 ## 2020
 
