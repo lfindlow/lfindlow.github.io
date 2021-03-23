@@ -71,7 +71,6 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 
 ## Current members of my lab
 - David Maxwell (postdoc, since 03/2020)
-- Manuel Valle Torre (Delft Data Science research engineer, ongoing)
 - [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (since 2017)
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
 - [Gustavo Penha](https://guzpenha.github.io/guzblog/) (PhD student, since 11/2018)
@@ -86,6 +85,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Research engineer Mónica Marrero (2017-18)
 - PhD student [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) graduated in 2014 on the topic of [Social Web Data Analytics: Relevance, Redundancy, Diversity](https://doi.org/10.4233/uuid:1af94380-1414-4497-bfc6-a67b213de050)
 - Postdoc Dimitrios Bountouridis worked on fairness in the news recommender domain (2018-19)
+- Research engineer Manuel Valle Torre (sponsored by Delft Data Science, 2019-2021)
 
 
 ## Lab software
