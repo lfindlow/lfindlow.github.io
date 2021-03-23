@@ -112,7 +112,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Elected [ELLIS Fellow](https://ellis.eu/fellows) in the ELLIS Unit Delft (12/2020)
 - CHIIR 2022 demo co-chair
 - Guest editor of an ACM TOIS special issue on Conversational Search (summer of 2020)
-- Invited keynote at the [1st International Workshop on Investigating Learning During Web Search](https://iwilds2020.wordpress.com/) co-located with CIKM 2020
+- Invited keynote ([slides](https://docs.google.com/presentation/d/e/2PACX-1vQbz1W-rqzOMjzH1s3b9wYPc4xPKOK9HVpWf_GY8SaipuF3RBAD_FD39_VrJ98GaBy7lO-JFAdou1OS/pub?start=false&loop=false&delayms=3000)) at the [1st International Workshop on Investigating Learning During Web Search](https://iwilds2020.wordpress.com/) co-located with CIKM 2020
 - Short paper co-chair at SIGIR 2021
 - Workshop co-chair at WSDM 2021
 - Invited keynote at [Baltic DB&IS 2020](https://dbis.ttu.ee/) ([slides](https://docs.google.com/presentation/d/e/2PACX-1vQu5aCFGV_cvTbt8fXMf_CIDPbVjBJdYGSYHbi4D126hO8Zqv6jwrEpQAHGm9uQfIKGxMPpQ1HVkP1P/pub?start=false&loop=false&delayms=3000))
