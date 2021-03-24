@@ -15,8 +15,6 @@ I also have a set of topics that I am ready to give away:
 - Design, build and evaluate an extension to Visual Studio Code that enables information seeking for programming tasks directly in the IDE.
 - Investigate UI elements that make collaborative search in the mobile setting (where screen space is a premium) a real possibility.
 
-<kbd>test</kbd>
-
 ## Courses
  
  Below are the resources I have developed for my courses (some are more up-to-date than others): 
