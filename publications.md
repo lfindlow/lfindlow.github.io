@@ -5,8 +5,7 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
-## 2021 <img src="../img/award.png" height="30px"> 
-<img src="../img/award.png" height="30px">
+## 2021 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
 Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural Learning to Rank Models*, accepted at EACL 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2101.04356)
