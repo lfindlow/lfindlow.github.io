@@ -5,7 +5,8 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
-## 2021 <img src="../img/award.png" height="30px">
+## 2021 <img src="../img/award.png" height="30px"> 
+<img src="../img/award.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
 Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural Learning to Rank Models*, accepted at EACL 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2101.04356)
@@ -17,6 +18,7 @@ Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff.
 Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, accepted at ECIR 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2012.08575) 
 
 <img src="../img/demo-paper.png" height="20px">
+<img src="../img/award.png" height="30px">
 David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, accepted at ECIR 2021. [[GitHub Repository&#8594;]](https://github.com/logui-framework) [[PDF Preprint&#8594;]](https://dmax.org.uk/uploads/publications/pdf/ecir-logui.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
