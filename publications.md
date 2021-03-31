@@ -18,7 +18,7 @@ Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, accepted a
 
 <img src="../img/demo-paper.png" height="20px">
 <img src="../img/award.png" height="30px">
-David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, accepted at ECIR 2021. [[GitHub Repository&#8594;]](https://github.com/logui-framework) [[PDF Preprint&#8594;]](https://dmax.org.uk/uploads/publications/pdf/ecir-logui.pdf)
+David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, accepted at ECIR 2021. <span style="color:red">It received the "Best Demo Award."</span> [[GitHub Repository&#8594;]](https://github.com/logui-framework) [[PDF Preprint&#8594;]](https://dmax.org.uk/uploads/publications/pdf/ecir-logui.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 <img src="../img/award.png" height="30px">
