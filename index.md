@@ -5,6 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
+- <img src="../img/award.png" height="30px"> Our ECIR demo *LogUI: a Logging Framework for Interactive IR Experiments* (led by David Maxwell) received the "Best demo" award.
 - <img src="../img/award.png" height="30px"> Our CHIIR paper *Searching to Learn with Instructional Scaffolding* (led by Arthur Câmara) received the "Best Student Paper Award." Watch the paper's video presentation [on YouTube](https://www.youtube.com/watch?v=U38wcNvUUhY).
 - Full paper accepted at **EACL 2021**: *On the Calibration and Uncertainty of Neural Learning to Rank Models*, led by Gustavo Penha.
 - Two short papers and a demo paper accepted at **ECIR 2021**: *Active Reading Strategies Employed in the SAL Context* (led by Nirmal Roy), *Weakly Supervised Label Smoothing* (led by Gustavo Penha) and *A Logging Framework for Interactive IR Experiments* (led by David Maxwell).
