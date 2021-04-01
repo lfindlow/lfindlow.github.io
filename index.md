@@ -108,7 +108,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## Organizational duties and activities
-- Invited talk at the Mixed-Initiative ConveRsatiOnal Systems Workshop (co-hosted at ECIR 2021)
+- Invited keynote ([slides](https://t.co/7Bs9xl01D2?amp=1)) at the Mixed-Initiative ConveRsatiOnal Systems Workshop (co-hosted at ECIR 2021)
 - Invited keynote ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSR6fpLodIbp5aChroo7ee3ihTt5ndRtK61B--4eTtnSHh0-nViz4Hs2GBeDZaVhrZ_N_m8Nu2qITjw/pub?start=false&loop=false&delayms=3000)) at the ING NLP Analytics Conference (03/2021)
 - Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the Glasgow Fairness and Bias in Information Retrieval Workshop (03/2021)
 - Elected [ELLIS Fellow](https://ellis.eu/fellows) in the ELLIS Unit Delft (12/2020)
