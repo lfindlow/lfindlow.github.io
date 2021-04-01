@@ -5,6 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
+- I gave a keynote at [MICROS 2021 @ ECIR](https://micros2021.github.io/); the slides are available [here](https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/pub?start=false&loop=false&delayms=3000).
 - <img src="../img/award.png" height="30px"> Our ECIR demo *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments* (led by David Maxwell) received the "Best Demo Award."
 - <img src="../img/award.png" height="30px"> Our CHIIR paper *Searching to Learn with Instructional Scaffolding* (led by Arthur Câmara) received the "Best Student Paper Award." Watch the paper's video presentation [on YouTube](https://www.youtube.com/watch?v=U38wcNvUUhY).
 - Full paper accepted at **EACL 2021**: *On the Calibration and Uncertainty of Neural Learning to Rank Models*, led by Gustavo Penha.
@@ -108,7 +109,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## Organizational duties and activities
-- Invited keynote ([slides](https://t.co/7Bs9xl01D2?amp=1)) at the Mixed-Initiative ConveRsatiOnal Systems Workshop (co-hosted at ECIR 2021)
+- Invited keynote ([slides](https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/pub?start=false&loop=false&delayms=3000)) at the Mixed-Initiative ConveRsatiOnal Systems Workshop (co-hosted at ECIR 2021)
 - Invited keynote ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSR6fpLodIbp5aChroo7ee3ihTt5ndRtK61B--4eTtnSHh0-nViz4Hs2GBeDZaVhrZ_N_m8Nu2qITjw/pub?start=false&loop=false&delayms=3000)) at the ING NLP Analytics Conference (03/2021)
 - Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the Glasgow Fairness and Bias in Information Retrieval Workshop (03/2021)
 - Elected [ELLIS Fellow](https://ellis.eu/fellows) in the ELLIS Unit Delft (12/2020)
