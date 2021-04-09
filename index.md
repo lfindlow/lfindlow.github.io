@@ -5,7 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
-- I gave a talk (04/2021) at the UMass CIIR Talk Series and presented my team's [Search As Learning research](https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&loop=false&delayms=3000)).
+- I gave a talk (04/2021) at the UMass CIIR Talk Series and presented my team's [Search As Learning research](https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&loop=false&delayms=3000).
 - I gave a keynote (04/2021) at the [Workshop on Mixed-Initiative ConveRsatiOnal Systems 2021](https://micros2021.github.io/) co-hosted at ECIR; the slides are available [here](https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/pub?start=false&loop=false&delayms=3000).
 - <img src="../img/award.png" height="30px"> Our ECIR demo *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments* (led by David Maxwell) received the "Best Demo Award."
 - <img src="../img/award.png" height="30px"> Our CHIIR paper *Searching to Learn with Instructional Scaffolding* (led by Arthur Câmara) received the "Best Student Paper Award." Watch the paper's video presentation [on YouTube](https://www.youtube.com/watch?v=U38wcNvUUhY).
