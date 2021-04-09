@@ -33,6 +33,7 @@
 - [Embeddings in NLP](http://josecamachocollados.com/book_embNLP_draft.pdf)
 - [Made with ML](https://madewithml.com/)
 - [Papers with Code](https://paperswithcode.com/)
+- [Overview of lots of useful ML toolkits](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ## Checklists
 - For machine learning oriented projects: [ML code completeness checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
