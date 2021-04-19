@@ -14,6 +14,7 @@
 
 
 ## Material to read in preparation of your project
+- [IR anthology](https://ir.webis.de/anthology/): an overview of recent IR conference proceedings.
 - [How to approach an applied ML project](https://elvissaravia.substack.com/p/getting-started-with-applied-ml-research)
 - [Book on Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Book on Search User Interfaces](http://searchuserinterfaces.com): very good starting point for those wanting to dive deeper into search engine interfaces
