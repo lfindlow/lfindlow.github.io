@@ -110,6 +110,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## Organizational duties and activities
+- Invited talk at the Algorithmic Targeted Communication workshop (June 2021) 
 - Invited talk ([slides](https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&loop=false&delayms=3000)) at the UMass CIIR Talk series (04/2021)
 - Invited keynote ([slides](https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/pub?start=false&loop=false&delayms=3000)) at the Mixed-Initiative ConveRsatiOnal Systems Workshop (co-hosted at ECIR 2021)
 - Invited keynote ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSR6fpLodIbp5aChroo7ee3ihTt5ndRtK61B--4eTtnSHh0-nViz4Hs2GBeDZaVhrZ_N_m8Nu2qITjw/pub?start=false&loop=false&delayms=3000)) at the ING NLP Analytics Conference (03/2021)
