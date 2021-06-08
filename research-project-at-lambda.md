@@ -79,7 +79,7 @@ Defining LaTeX commands is useful for a few things. We use it mostly to signal t
 
 ### Citing
 
-Avoid the manual typing out of author names at all costs. Check if the LaTeX template allows the use of `\citet{}` (lists authors) as well as `\cite{}` (often does not - this depends on the template though).
+Avoid the manual typing out of author names at all costs. Check if the LaTeX template allows the use of `~\citet{}` (lists authors) as well as `~\cite{}` (often does not - this depends on the template though). The `~` ensures that there is a whitespace before the reference.
 
 ### Splitting up files
 When collaborating on a LaTeX document it helps to not keep the entire report in one file but instead to split it up into `1_introduction.tex`, `2_related.tex` and so on. We generally use one file per section. Large tables should be saved in their own separate files. To include these separate files (here we assume we have 7 files) into the main LaTeX file, use:
