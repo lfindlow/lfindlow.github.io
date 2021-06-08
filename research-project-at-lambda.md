@@ -59,15 +59,27 @@
 
 ## Useful LaTeX snippets
 
-1. To create good-looking todos in your report add before `\begin{document}`:
+Defining **LaTeX commands** is useful for a few things. We use it mostly to signal todos and to avoid the typing out of commonly used phrases, names and concepts. Here are a few LaTeX commands commonly found in our papers (they are all added right before `\begin{document}`) and how they are used in the text:
+
 ```
+%% allows us to write ... bla bla \todo{This still needs to be done.}
 \newcommand{\todo}[1]{{\color{magenta} $\blacktriangleright$ #1 $\blacktriangleleft$ }}
-```
-2. Often used terms/phrases should be turned into commands; as an example consider an experiment with two conditions, *CONTROL* and *UPPER-RIGHT*. Instead of writing out these two conditions when discussing the results, we can define before `begin{document}`:
-```
+
+%% experimental conditions can then be referenced as ... We first discuss \control{} and then \upperRight{}.
 \newcommand{\control}{\texttt{CONTROL}}
 \newcommand{\upperRight}{\texttt{UPPER-RIGHT}}
-```
-and then use these commands when writing about the conditions, e.g. `We first discuss \contro{} and then \upperRight{}.`.
-3. fds
 
+%% mathematical notation that is repetitive ... Set \cqb{} contains elements ...
+\newcommand{\cqb}{$C^{\mathcal{QB}}$}
+```
+
+When collaborating on a LaTeX document it helps to not keep the entire report in one file but instead to split it up into `1_introduction.tex`, `2_related.tex` and so on. We generally use one file per section. Large tables should be saved in their own separate files. To include these separate files (here we assume we have 7 files) into the main LaTeX file, use:
+```
+\input{sections/1_introduction}
+\input{sections/2_related}
+\input{sections/3_approach}
+\input{sections/4_hypotheses}
+\input{sections/5_experiment}
+\input{sections/6_discussion}
+\input{sections/7_conclusions}
+```
