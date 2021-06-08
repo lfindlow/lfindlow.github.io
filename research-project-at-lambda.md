@@ -128,9 +128,21 @@ Instead of manually typing out references to tables (which is error-prone and le
 ```latex
 \section{Methodology}\label{sec:methodology}
 blah
-As seen in Section~\ref{sec:methodology}
+As seen in Section~\ref{sec:methodology} ...
 ```
 
+and figures:
+
+```latex
+\begin{figure}[t!]
+\includegraphics[width=\linewidth]{images/image1.png}
+\centering
+\caption{Overview of something.}
+\label{fig:plot1}
+\end{figure}
+blah
+As seen in Figure~\ref{fig:plot1} ...
+```
 
 ### Enumerating questions, hypothes, features
 Research questions should be visually different from the rest of the text and enumerated (often in the introduction or methodology section). In addition, once research questions are enumerated, we can refer back to them as `RQ1`, `RQ2` and so on throughout the text: 
