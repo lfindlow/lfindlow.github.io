@@ -61,7 +61,7 @@
 
 Defining **LaTeX commands** is useful for a few things. We use it mostly to signal todos and to avoid the typing out of commonly used phrases, names and concepts. Here are a few LaTeX commands commonly found in our papers (they are all added right before `\begin{document}`) and how they are used in the text:
 
-```
+```latex
 %% allows us to write ... bla bla \todo{This still needs to be done.}
 \newcommand{\todo}[1]{{\color{magenta} $\blacktriangleright$ #1 $\blacktriangleleft$ }}
 
