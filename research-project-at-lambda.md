@@ -56,3 +56,18 @@
 - [Miro](https://miro.com), an online whiteboard for visual collaboration.
 - Productivity during the pandemic: https://www.youtube.com/watch?v=snAhsXyO3Ck.
 - [Foam, similar to Obsidian and Roam inside of Visual Studio Code](https://foambubble.github.io/foam/).
+
+## Useful LaTeX snippets
+
+1. To create good-looking todos in your report add before `\begin{document}`:
+```
+\newcommand{\todo}[1]{{\color{magenta} $\blacktriangleright$ #1 $\blacktriangleleft$ }}
+```
+2. Often used terms/phrases should be turned into commands; as an example consider an experiment with two conditions, *CONTROL* and *UPPER-RIGHT*. Instead of writing out these two conditions when discussing the results, we can define before `begin{document}`:
+```
+\newcommand{\control}{\texttt{CONTROL}}
+\newcommand{\upperRight}{\texttt{UPPER-RIGHT}}
+```
+and then use these commands when writing about the conditions, e.g. `We first discuss \contro{} and then \upperRight{}.`.
+3. fds
+
