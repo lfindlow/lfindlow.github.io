@@ -121,6 +121,17 @@ Use the `booktabs` package to create good looking tables:
 \end{table}
 ```
 
+### Table, figure and section referencing
+
+Instead of manually typing out references to tables (which is error-prone and leads to extra work when a new table/figure is added in the middle of the report), figures or sections (e.g. `As seen in Table 3 ... `), it is better to label each of these items with a unique string as seen in the LaTeX table snippet above where `\label{tab:chess}` is used. Here, `tab:chess` is the unique string that we can use to refer to this table later via the `\ref{}` command: `As seen in Table~\ref{tab:chess}`. The same principle holds for sections:
+
+```latex
+\section{Methodology}\label{sec:methodology}
+blah
+As seen in Section~\ref{sec:methodology}
+```
+
+
 ### Enumerating questions, hypothes, features
 Research questions should be visually different from the rest of the text and enumerated (often in the introduction or methodology section). In addition, once research questions are enumerated, we can refer back to them as `RQ1`, `RQ2` and so on throughout the text: 
 
