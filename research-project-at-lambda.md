@@ -98,9 +98,9 @@ When collaborating on a LaTeX document it helps to not keep the entire report in
 \input{sections/7_conclusions}
 ```
 
-### Excel table to LaTeX table
+### Spreadsheet table to LaTeX table
 
-If you have an Excel table, porting it to LaTeX is easy and requires very little work from your side; various online converters exist, e.g. https://www.tablesgenerator.com/.
+If you have a spreadsheet (e.g. to keep track of results), porting it to LaTeX is easy and requires very little work from your side; various online converters exist, e.g. https://www.tablesgenerator.com/.
 
 ### Table styling
 Use the `booktabs` package to create good looking tables:
