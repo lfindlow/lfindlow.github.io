@@ -74,7 +74,8 @@ Defining **LaTeX commands** is useful for a few things. We use it mostly to sign
 ```
 
 When collaborating on a LaTeX document it helps to not keep the entire report in one file but instead to split it up into `1_introduction.tex`, `2_related.tex` and so on. We generally use one file per section. Large tables should be saved in their own separate files. To include these separate files (here we assume we have 7 files) into the main LaTeX file, use:
-```
+
+```latex
 \input{sections/1_introduction}
 \input{sections/2_related}
 \input{sections/3_approach}
@@ -82,4 +83,22 @@ When collaborating on a LaTeX document it helps to not keep the entire report in
 \input{sections/5_experiment}
 \input{sections/6_discussion}
 \input{sections/7_conclusions}
+```
+
+Use the `booktabs` package to create good looking tables:
+
+```latex
+\begin{table}[!t]
+    \centering
+    \caption{Lots of text to explain what we see in the table.}
+    \label{tab:chess} %a label allows us to refer back to the table ... As seen in Table~\ref{tab:chess}.
+    \begin{tabular}{lrrr}
+        \toprule
+        \textbf{Search Engine} & \textbf{Placement} & \textbf{\#Columns} & \textbf{\#Entries} \\
+        \midrule
+        \texttt{bing.com} & Bottom left & 1 & 8\\
+        \texttt{google.com} & Bottom left & 2 & 8\\
+        \bottomrule
+    \end{tabular}
+\end{table}
 ```
