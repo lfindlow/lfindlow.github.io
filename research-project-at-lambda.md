@@ -59,7 +59,8 @@
 
 ## Useful LaTeX snippets
 
-Defining **LaTeX commands** is useful for a few things. We use it mostly to signal todos and to avoid the typing out of commonly used phrases, names and concepts. Here are a few LaTeX commands commonly found in our papers (they are all added right before `\begin{document}`) and how they are used in the text:
+### LaTeX commands
+Defining LaTeX commands is useful for a few things. We use it mostly to signal todos and to avoid the typing out of commonly used phrases, names and concepts. Here are a few LaTeX commands commonly found in our papers (they are all added right before `\begin{document}`) and how they are used in the text:
 
 ```latex
 %% allows us to write ... bla bla \todo{This still needs to be done.}
@@ -76,6 +77,7 @@ Defining **LaTeX commands** is useful for a few things. We use it mostly to sign
 \newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,fill=black,inner sep=1pt] (char) {\textcolor{white}{#1}};}}
 ```
 
+### Splitting up files
 When collaborating on a LaTeX document it helps to not keep the entire report in one file but instead to split it up into `1_introduction.tex`, `2_related.tex` and so on. We generally use one file per section. Large tables should be saved in their own separate files. To include these separate files (here we assume we have 7 files) into the main LaTeX file, use:
 
 ```latex
@@ -88,6 +90,7 @@ When collaborating on a LaTeX document it helps to not keep the entire report in
 \input{sections/7_conclusions}
 ```
 
+### Tables
 Use the `booktabs` package to create good looking tables:
 
 ```latex
@@ -106,6 +109,7 @@ Use the `booktabs` package to create good looking tables:
 \end{table}
 ```
 
+### Enumerating questions, hypothes, features
 Research questions should be visually different from the rest of the text and enumerated (often in the introduction or methodology section). In addition, once research questions are enumerated, we can refer back to them as `RQ1`, `RQ2` and so on throughout the text: 
 
 ```latex
