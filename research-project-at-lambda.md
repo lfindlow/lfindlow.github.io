@@ -71,6 +71,9 @@ Defining **LaTeX commands** is useful for a few things. We use it mostly to sign
 
 %% mathematical notation that is repetitive ... Set \cqb{} contains elements ...
 \newcommand{\cqb}{$C^{\mathcal{QB}}$}
+
+%% when discussing elements of a screenshot, we can annotate the screenshot with "enumerated balls". To also use these "enumerated balls" throughout the text ... Component \circled{2} shows of the chat window ... 
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,fill=black,inner sep=1pt] (char) {\textcolor{white}{#1}};}}
 ```
 
 When collaborating on a LaTeX document it helps to not keep the entire report in one file but instead to split it up into `1_introduction.tex`, `2_related.tex` and so on. We generally use one file per section. Large tables should be saved in their own separate files. To include these separate files (here we assume we have 7 files) into the main LaTeX file, use:
@@ -102,3 +105,17 @@ Use the `booktabs` package to create good looking tables:
     \end{tabular}
 \end{table}
 ```
+
+Research questions should be visually different from the rest of the text and enumerated (often in the introduction or methodology section). In addition, once research questions are enumerated, we can refer back to them as `RQ1`, `RQ2` and so on throughout the text: 
+
+```latex
+\begin{description}
+    \item[\textbf{RQ1}]{\textit{This is the first research question.}}
+    \item[\textbf{RQ2}]{\textit{This is the second research question.}}
+    \item[\textbf{RQ3}]{\textit{This is the third research question.}}
+\end{description}
+```
+The enumeration of research questions above can also be used to enumerate and label hypotheses and to enumerate and label features when in a setup where a lot of feature engineering is taking place. 
+
+
+
