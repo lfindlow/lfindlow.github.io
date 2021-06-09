@@ -59,6 +59,70 @@
 
 ## Useful LaTeX snippets
 
+### Paper structure
+
+Every area of computer science has their own ideas of how to structure scientific contributions. 
+
+In Information Retrieval a common structure for an interactive IR paper is the following:
+
+```latex
+\section{Introduction}
+
+\section{Related Work}
+\subsection{First Related Area}
+\subsection{Second Related Area}
+\subsection{Third Related Area}
+
+\section{SearchX} %or any other big software contribution needed for this study
+\subsection{Search Interface}
+\subsection{Special Component Implemented for this Study}
+\subsection{Data Collection and Retrieval}
+
+\section{Experimental Design}
+\subsection{Experimental Conditions}
+\subsection{Search Tasks}
+\subsection{Experimental Procedure}
+\subsection{Questionnnaires}
+\subsection{Study Participants}
+\subsection{Evaluation Metrics}
+
+\section{Results}
+\subsection{RQ1}
+\subsection{RQ2}
+\subsection{RQ3}
+
+\section{Conclusions}
+```
+
+A system-oriented IR paper often looks as follows:
+
+```latex
+\section{Introduction}
+
+\section{Related Work}
+\subsection{First Related Area}
+\subsection{Second Related Area}
+\subsection{Third Related Area}
+
+\section{Algorithm to be Investigated} 
+\subsection{Base algorithm}
+\subsection{Improvement 1}
+\subsection{Improvement 2}
+
+\section{Experimental Setup}
+\subsection{Datasets}
+\subsection{Baselines}
+\subsection{Model Variations}
+\subsection{Evaluation Metrics}
+
+\section{Results}
+\subsection{RQ1}
+\subsection{RQ2}
+\subsection{RQ3}
+
+\section{Conclusions}
+```
+
 ### LaTeX packages
 
 Right after `\documentclass` add the following list of packages to use (some of these are already present in templates, others need to be added by hand):
@@ -142,6 +206,14 @@ Imagine that you are taking an introductory \underline{Physics} course this term
 Instead of putting an entire paragraph in a box, we can also just give one or more terms a different background/font color:
 ```latex
 In the \colorbox{magenta}{\textcolor{white}{\textbf{Review}}} condition ...
+```
+
+### Icons
+
+The [fontawesome5](https://www.ctan.org/pkg/fontawesome5) package makes it easy to also include icons in a piece of text:
+
+```latex
+We report aggregate search and review behaviours over a group \faUsers{} and individually \faUser{}.
 ```
 
 ### Table styling
