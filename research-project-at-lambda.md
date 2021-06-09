@@ -166,7 +166,8 @@ Defining LaTeX commands is useful for a few things. We use it mostly to signal t
 %% mathematical notation that is repetitive ... Set \cqb{} contains elements ...
 \newcommand{\cqb}{$C^{\mathcal{QB}}$}
 
-%% when discussing elements of a screenshot, we can annotate the screenshot with "enumerated balls". To also use these "enumerated balls" throughout the text ... Component \circled{2} shows of the chat window ... 
+%% when discussing elements of a screenshot, we can annotate the screenshot with "enumerated balls". 
+%% To also use these "enumerated balls" throughout the text ... Component \circled{2} shows of the chat window ... 
 \newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,fill=black,inner sep=1pt] (char) {\textcolor{white}{#1}};}}
 ```
 
@@ -201,7 +202,10 @@ Sometimes it makes sense to visually distinguish a piece of text from the rest b
 
 ```latex
 \begin{mdframed}[backgroundcolor=black!7]
-Imagine that you are taking an introductory \underline{Physics} course this term. For your term paper, you have decided to write about \underline{Radioactivity}. You also would like to write about how \underline{Radioactivity} happens and what \underline{types of Radioactivity} exist.
+Imagine that you are taking an introductory \underline{Physics} course this term. 
+For your term paper, you have decided to write about \underline{Radioactivity}. 
+You also would like to write about how \underline{Radioactivity} happens and what 
+\underline{types of Radioactivity} exist.
 \end{mdframed}
 ```
 
