@@ -198,7 +198,7 @@ If you have a spreadsheet (e.g. to keep track of results), porting it to LaTeX i
 
 ### Content in boxes
 
-<img style="float: right;" src="../img/latex-rendering.png" />
+<img style="float: right;" src="https://github.com/chauff/chauff.github.io/blob/master/img/latex-rendering.png" />
 
 Sometimes it makes sense to visually distinguish a piece of text from the rest by drawing a box around it and giving this box a background color. For instance, when putting the search task description into a paper:
 
