@@ -63,6 +63,12 @@
 
 The [Overleaf documentation](https://www.overleaf.com/learn) is quite handy to get started with LaTeX. 
 
+### Which template?
+
+In information retrieval most conferences use the 2-column ACM format. Luckily, [Overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) has this available as already. [Overleaf](https://www.overleaf.com) is a collaborative cloud-based LaTeX editor for which all TU Delft students and staff [have a professional account](https://www.overleaf.com/edu/tudelft).
+
+### 
+
 ### Paper structure
 
 Every area of computer science has their own ideas of how to structure scientific contributions. 
