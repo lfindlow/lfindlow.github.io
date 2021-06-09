@@ -157,7 +157,7 @@ Defining LaTeX commands is useful for a few things. We use it mostly to signal t
 
 ```latex
 %% allows us to write ... bla bla \todo{This still needs to be done.}
-\newcommand{\todo}[1]{{\color{magenta} $\blacktriangleright$ #1 $\blacktriangleleft$ }}
+\newcommand{\todo}[1]{ {\color{magenta} $\blacktriangleright$ #1 $\blacktriangleleft$ } }
 
 %% experimental conditions can then be referenced as ... We first discuss \control{} and then \upperRight{}.
 \newcommand{\control}{\texttt{CONTROL}}
@@ -168,7 +168,7 @@ Defining LaTeX commands is useful for a few things. We use it mostly to signal t
 
 %% when discussing elements of a screenshot, we can annotate the screenshot with "enumerated balls". 
 %% To also use these "enumerated balls" throughout the text ... Component \circled{2} shows of the chat window ... 
-\newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,fill=black,inner sep=1pt] (char) {\textcolor{white}{#1}};}}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,fill=black,inner sep=1pt] (char) {\textcolor{white}{#1}};} }
 ```
 
 ### Citing
