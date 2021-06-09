@@ -180,7 +180,7 @@ The [natbib](https://www.overleaf.com/learn/latex/Natbib_citation_styles) packag
 In most templates, several references can be included in a single command: `~\cite{REF1,REF2,REF3}`.
 
 ### Splitting up files
-When collaborating on a LaTeX document it helps to not keep the entire report in one file but instead to split it up into `1_introduction.tex`, `2_related.tex` and so on. We generally use one file per section. Large tables should be saved in their own separate files. To include these separate files (here we assume we have 7 files) into the main LaTeX file, use:
+When collaborating on a LaTeX document it helps to not keep the entire report in one file but instead to split it up into `1_introduction.tex`, `2_related.tex` and so on. We generally use one file per section. Large tables should be saved in their own separate files. To include these separate files (here we assume we have 7 files) into the main LaTeX file, use (we here assume the files are stored in a folder named `sections`):
 
 ```latex
 \input{sections/1_introduction}
