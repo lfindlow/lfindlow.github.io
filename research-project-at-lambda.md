@@ -59,6 +59,31 @@
 
 ## Useful LaTeX snippets
 
+### LaTeX packages
+
+Right after `\documentclass` add the following list of packages to use (some of these are already present in templates, others need to be added by hand):
+
+```latex
+\usepackage[normalem]{ulem}
+\usepackage{array,booktabs,ragged2e} % For formal tables
+\usepackage{enumitem} % Better enumeration
+\usepackage{xcolor} % better colors
+\usepackage{tabularx}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true
+}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{fontawesome}
+\usepackage{tikzsymbols}
+\usepackage{adjustbox}
+\usepackage{subcaption}
+\usepackage[skip=1pt]{caption}
+```
+
 ### LaTeX commands
 Defining LaTeX commands is useful for a few things. We use it mostly to signal todos and to avoid the typing out of commonly used phrases, names and concepts. Here are a few LaTeX commands commonly found in our papers (they are all added right before `\begin{document}`) and how they are used in the text:
 
@@ -102,6 +127,23 @@ When collaborating on a LaTeX document it helps to not keep the entire report in
 
 If you have a spreadsheet (e.g. to keep track of results), porting it to LaTeX is easy and requires very little work from your side; various online converters exist, e.g. https://www.tablesgenerator.com/.
 
+### Content in boxes
+
+Sometimes it makes sense to visually distinguish a piece of text from the rest by drawing a box around it and giving this box a background color. For instance, when putting the search task description into a paper:
+
+```latex
+\begin{mdframed}[backgroundcolor=black!7]
+Imagine that you are taking an introductory \underline{Physics} course this term. For your term paper, you have decided to write about \underline{Radioactivity}. You also would like to write about how \underline{Radioactivity} happens and what \underline{types of Radioactivity} exist.
+\end{mdframed}
+```
+
+### Text with a background color
+
+Instead of putting an entire paragraph in a box, we can also just give one or more terms a different background/font color:
+```latex
+In the \colorbox{magenta}{\textcolor{white}{\textbf{Review}}} condition ...
+```
+
 ### Table styling
 Use the `booktabs` package to create good looking tables:
 
@@ -120,6 +162,10 @@ Use the `booktabs` package to create good looking tables:
     \end{tabular}
 \end{table}
 ```
+
+### Large tables
+
+Large tables (many rows and many columns) can be tricky to work with when it comes to the discussion section. To help yourself, provide an ID (Roman numbers) as first cell of each table row. In the text, you can then use `In Table~\ref{tab:results}, row X ... `.
 
 ### Table, figure and section referencing
 
