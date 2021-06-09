@@ -59,6 +59,10 @@
 
 ## Useful LaTeX snippets
 
+### Introductory LaTeX guide
+
+The [Overleaf documentation](https://www.overleaf.com/learn) is quite handy to get started with LaTeX. 
+
 ### Paper structure
 
 Every area of computer science has their own ideas of how to structure scientific contributions. 
