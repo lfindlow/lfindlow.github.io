@@ -192,6 +192,38 @@ When collaborating on a LaTeX document it helps to not keep the entire report in
 \input{sections/7_conclusions}
 ```
 
+### Tables and figures spread across both columns
+
+If you are working with a 2-column template layout, you sometimes may need to use figures and tables that cover both columns. This is easy to achieve by using the `*` characer:
+
+```latex
+%figure is intended to be as large as a single column
+\begin{figure}
+\includegraphics[width=\linewidth]{figures/architecture.pdf}
+\centering
+\caption{My caption.}
+\label{fig:architecture}
+\end{figure}
+
+%figure covers both columns
+\begin{figure*}[t!]
+\includegraphics[width=\textwidth]{figures/architecture.pdf}
+\centering
+\caption{My caption.}
+\label{fig:architecture}
+\end{figure*}
+
+%single column table
+\begin{table}
+...
+\end{table}
+
+%2-column table
+\begin{table*}
+...
+\end{table*}
+```
+
 ### Spreadsheet table to LaTeX table
 
 If you have a spreadsheet (e.g. to keep track of results), porting it to LaTeX is easy and requires very little work from your side; various online converters exist, e.g. https://www.tablesgenerator.com/.
