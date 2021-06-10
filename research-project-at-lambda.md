@@ -144,6 +144,7 @@ Right after `\documentclass` add the following list of packages to use (some of 
 \usepackage{xcolor} % better colors
 \usepackage{tabularx}
 \usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true
