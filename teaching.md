@@ -73,7 +73,7 @@ Since 2013/2014 I have also been teaching the first year Bachelor course *Web an
 the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML
 before the start of this course). 
 
-In the 2018/19 edition, we had roughly 900 students taking the course and so I finally bit the bullet and started making extensive lecture transcripts (with self-check questions, demo code, assignments, etc.), split the materials into GitHub repos and created a good looking website: [https://chauff.github.io/Web-Teaching/](https://chauff.github.io/Web-Teaching/).
+The web lecture transcripts (with self-check questions, demo code, assignments, etc.) are available [here](https://chauff.github.io/cse1500-web-transcripts/).
 
 Feel free to use the materials with acknowledgement.
 
