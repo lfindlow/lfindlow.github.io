@@ -67,8 +67,6 @@ The [Overleaf documentation](https://www.overleaf.com/learn) is quite handy to g
 
 In information retrieval most conferences use the 2-column ACM format. Luckily, [Overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) has this available as already. [Overleaf](https://www.overleaf.com) is a collaborative cloud-based LaTeX editor for which all TU Delft students and staff [have a professional account](https://www.overleaf.com/edu/tudelft).
 
-### 
-
 ### Paper structure
 
 Every area of computer science has their own ideas of how to structure scientific contributions. 
@@ -177,6 +175,10 @@ Defining LaTeX commands is useful for a few things. We use it mostly to signal t
 %% To also use these "enumerated balls" throughout the text ... Component \circled{2} shows of the chat window ... 
 \newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,fill=black,inner sep=1pt] (char) {\textcolor{white}{#1}};} }
 ```
+
+### Emphasizing text
+
+Important concepts should be emphasized when they are first introduced, either via `\textit{..}`, `\emph{..}` (*italics*), `\textbf{..}` (**bold**), or `\underline{..}` (underlined text).
 
 ### Citing
 
