@@ -44,6 +44,7 @@
 
 ## Presenting your work
 - To a Twitter audience via [Twitter posters](https://twitter.com/mikemorrison/status/1242445150619607040)
+- Once you are ready to make slides or a poster, check out [https://color.adobe.com/explore](https://color.adobe.com/explore) to find a color scheme you like.
 
 ## Organizing your thoughts/ideas
 - [Obsidian](https://obsidian.md)
