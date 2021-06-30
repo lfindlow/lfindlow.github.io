@@ -14,7 +14,6 @@ subtitle: Web Information Systems, TU Delft
 - <img src="../img/fireworks.png" height="30px"> Full paper accepted at **EACL 2021**: *On the Calibration and Uncertainty of Neural Learning to Rank Models*, led by Gustavo Penha.
 
 ## My career
-
 For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff_shortCV.pdf). 
 
 I have been working as staff member (first as Assistant Professor and since 2018 as Associate Professor) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
