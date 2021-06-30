@@ -8,34 +8,34 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2021 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
-Nirmal Roy, Arthur Barbosa Câmara, David Maxwell and Claudia Hauff. *Incorporating Widget Positioning in Interaction Models of Search Behaviour*, accepted at ICTIR 2021. 
+Nirmal Roy, Arthur Barbosa Câmara, David Maxwell and Claudia Hauff. *Incorporating Widget Positioning in Interaction Models of Search Behaviour*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Roy.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Sara Salimzadeh, David Maxwell and Claudia Hauff. *The Impact of Entity Cards on Learning-Oriented Search Tasks*, accepted at ICTIR 2021. 
+Sara Salimzadeh, David Maxwell and Claudia Hauff. *The Impact of Entity Cards on Learning-Oriented Search Tasks*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Salimzadeh.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Peide Zhu and Claudia Hauff. *Evaluating BERT-based Rewards for Question Generation with Reinforcement Learning*, accepted at ICTIR 2021. 
+Peide Zhu and Claudia Hauff. *Evaluating BERT-based Rewards for Question Generation with Reinforcement Learning*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Zhu.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural Learning to Rank Models*, accepted at EACL 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2101.04356)
+Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural Learning to Rank Models*, EACL, pp. 160-170, 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2101.04356)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *How Do Active Reading Strategies Affect Learning Outcomes in Web Search?*, accepted at ECIR 2021.
+Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *How Do Active Reading Strategies Affect Learning Outcomes in Web Search?*, ECIR, pp. (2):368-375, 2021. [[PDF Preprint&#8594;]](../documents/publications/ECIR2021-Roy.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, accepted at ECIR 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2012.08575) 
+Gustavo Penha and Claudia Hauff. *Weakly Supervised Label Smoothing*, ECIR, pp. (2):334-341, 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2012.08575) 
 
 <img src="../img/demo-paper.png" height="20px">
 <img src="../img/award.png" height="30px">
-David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, accepted at ECIR 2021. <span style="color:red">It received the "Best Demo Award."</span> [[GitHub Repository&#8594;]](https://github.com/logui-framework) [[PDF Preprint&#8594;]](https://www.dmax.org.uk/publications/ecir-logui/)
+David Maxwell and Claudia Hauff. *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments*, ECIR, pp. (2):525-530, 2021. <span style="color:red">It received the "Best Demo Award."</span> [[GitHub Repository&#8594;]](https://github.com/logui-framework) [[PDF Preprint&#8594;]](../documents/publications/ECIR2021-Maxwell.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 <img src="../img/award.png" height="30px">
-Arthur Câmara, Nirmal Roy, David Maxwell and Claudia Hauff. *Searching to Learn with Instructional Scaffolding*, accepted at CHIIR 2021.
+Arthur Câmara, Nirmal Roy, David Maxwell and Claudia Hauff. *Searching to Learn with Instructional Scaffolding*, CHIIR, pp. 209-218, 2021.
 <span style="color:red">It received the "Best Student Paper Award."</span> [[Video presentation&#8594;]](https://www.youtube.com/watch?v=U38wcNvUUhY) [[PDF Preprint&#8594;]](../documents/publications/CHIIR2021-Camara.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
-Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *Note the Highlight: Incorporating Active Reading Tools for Search As Learning*, accepted at CHIIR 2021. [[Video presentation&#8594;]](https://www.youtube.com/watch?v=Qya5JBKdAeE) [[PDF Preprint&#8594;]](../documents/publications/CHIIR2021-Roy.pdf)
+Nirmal Roy, Manuel Valle Torre, Ujwal Gadiraju, David Maxwell and Claudia Hauff. *Note the Highlight: Incorporating Active Reading Tools for Search As Learning*, CHIIR, pp. 229-238, 2021. [[Video presentation&#8594;]](https://www.youtube.com/watch?v=Qya5JBKdAeE) [[PDF Preprint&#8594;]](../documents/publications/CHIIR2021-Roy.pdf)
 
 ## 2020
 
