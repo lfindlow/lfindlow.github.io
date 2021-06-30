@@ -4,7 +4,7 @@ title:  Associate Professor
 subtitle: Web Information Systems, TU Delft
 ---
 
-## <img src="../img/news.png" height="60px"> News
+## <img src="../img/news.png" height="50px"> News
 - <img src="../img/fireworks.png" height="30px"> Three works made it into  ICTIR 2021. Led by three PhD students from my team, Nirmal Roy (interaction models for IR), Peide Zhu (question generation), and Sara Salimzadeh
  (entity cards). Supported by David Maxwell and Arthur Câmara.
 - <img src="../img/microphone.png" height="30px"> I gave a talk (04/2021) at the UMass CIIR Talk Series and presented my team's [Search As Learning research](https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&loop=false&delayms=3000).
@@ -13,7 +13,7 @@ subtitle: Web Information Systems, TU Delft
 - <img src="../img/award.png" height="30px"> Our CHIIR paper *Searching to Learn with Instructional Scaffolding* (led by Arthur Câmara) received the "Best Student Paper Award." Watch the paper's video presentation [on YouTube](https://www.youtube.com/watch?v=U38wcNvUUhY).
 - <img src="../img/fireworks.png" height="30px"> Full paper accepted at **EACL 2021**: *On the Calibration and Uncertainty of Neural Learning to Rank Models*, led by Gustavo Penha.
 
-## My career
+## <img src="../img/career.png" height="50px"> My career
 For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff_shortCV.pdf). 
 
 I have been working as staff member (first as Assistant Professor and since 2018 as Associate Professor) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
@@ -37,7 +37,7 @@ In 2021, I gave an [invited keynote](https://docs.google.com/presentation/d/e/2P
 
 <iframe class="slide-presentation" src="https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Contact
+## <img src="../img/contact.png" height="50px"> Contact
 
 ```
 TU Delft - EWI/ST/WIS
@@ -68,7 +68,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Research engineer Manuel Valle Torre (sponsored by Delft Data Science, 2019-2021)
 
 
-## Lab software
+## <img src="../img/software.png" height="50px"> Lab software
 
 - [LogUI](https://github.com/logui-framework): A contemporary, framework-agnostic JavaScript library for logging user interactions on webpages. Lead developer is David Maxwell.
 - [ELAT](https://mvallet91.github.io/ELAT/): EdX Logfile Analysis Tool that is browser-based, and a fully local processing tool. No server needed, no programming knowledge needed, no setup costs. Lead developer is Manuel Valle Torre. 
@@ -76,7 +76,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - [APONE](https://marrerom.github.io/APONE/) is an academic environment for online experiments, that we have used in our research and teaching. Lead developer is Mónica Marrero.
 - [SIREN](https://github.com/dbountouridis/siren) is a simulation framework for understanding the effects of recommender systems in online news environments. Lead developer is Dimitrios Bountouridis.
 
-## Grants
+## <img src="../img/money.png" height="50px"> Grants
 - NWO Aspasia grant (**100,000€**) as a top-up of my NWO VIDI (50K for my research, 50K for diversity measures in the faculty), September 2018.
 - [NWA Startimpulsprogramma](https://www.nwo.nl/actueel/nieuws/2017/nwo-honoreert-aanvragen-startimpuls-nationale-wetenschapsagenda.html) VWData (**325,000€**) awarded together with 2 co-PIS. A two-year Postdoc position will be funded within a work package that considers fairness in news recommenders.
 - NWO VIDI grant (**800,000€**) for my proposal *SearchX: Integrating search and sensemaking into large-scale open online  learning*, May 2017 (personal grant, 15% acceptance rate)
@@ -86,7 +86,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Study Success tender (**3,000€**, 1 co-PI) to further improve teaching in the Bachelor, September 2015 
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
-## Organizational duties and activities
+## <img src="../img/orga.png" height="50px"> Organizational duties and activities
+- Invited talk at the [Sim4IR workshop](https://sim4ir.org/) (July 2021)
 - Invited talk at the Algorithmic Targeted Communication workshop (June 2021) 
 - Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the BBC Data Dates Series (May 2021)
 - Invited talk ([slides](https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&loop=false&delayms=3000)) at the UMass CIIR Talk series (04/2021)
