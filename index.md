@@ -16,26 +16,6 @@ subtitle: Web Information Systems, TU Delft
 - Two long papers accepted at **CHIIR 2021**: *Searching to Learn with Instructional Scaffolding* (led by Arthur Câmara) and *Note the Highlight: Incorporating Active Reading Tools for Search As Learning* (led by Nirmal Roy). 
 - Full paper accepted at **RecSys 2020** asking the question *What does BERT know about books, movies and music?* (work led by Gustavo Penha).
 
-<p>
- <a class="twitter-timeline"
- href="https://twitter.com/CharlotteHase"
- data-widget-id="340639437736255489"
- data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@CharlotteHase)</a>
- <script>
-						!function(d, s, id) {
-							var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/
-									.test(d.location) ? 'http' : 'https';
-							if (!d.getElementById(id)) {
-								js = d.createElement(s);
-								js.id = id;
-								js.src = p
-										+ "://platform.twitter.com/widgets.js";
-								fjs.parentNode.insertBefore(js, fjs);
-							}
-						}(document, "script", "twitter-wjs");
- </script>
-</p>
-
 ## My career
 
 For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff_shortCV.pdf). 
