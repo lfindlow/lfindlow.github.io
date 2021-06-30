@@ -4,7 +4,7 @@ title:  Associate Professor
 subtitle: Web Information Systems, TU Delft
 ---
 
-## News
+## <img src="../img/news.png" height="60px"> News
 - <img src="../img/fireworks.png" height="30px"> Three works made it into  ICTIR 2021. Led by three PhD students from my team, Nirmal Roy (interaction models for IR), Peide Zhu (question generation), and Sara Salimzadeh
  (entity cards). Supported by David Maxwell and Arthur Câmara.
 - <img src="../img/microphone.png" height="30px"> I gave a talk (04/2021) at the UMass CIIR Talk Series and presented my team's [Search As Learning research](https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&loop=false&delayms=3000).
