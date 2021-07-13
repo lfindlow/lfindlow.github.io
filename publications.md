@@ -5,7 +5,7 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
-## 2021 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
+## 2021 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px"><img src="../img/honorable.png" height="30px">
 
 <img src="../img/workshop-paper.png" height="20px">
 Felipe Moraes, David Maxwell and Claudia Hauff, *Exploring Collaborative Navigation Support in Collaborative Product Search*, accepted at the ACM SIGIR Workshop on eCommerce 2021.
@@ -14,8 +14,8 @@ Felipe Moraes, David Maxwell and Claudia Hauff, *Exploring Collaborative Navigat
 Nirmal Roy, Arthur Barbosa Câmara, David Maxwell and Claudia Hauff. *Incorporating Widget Positioning in Interaction Models of Search Behaviour*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Roy.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
-<img src="../img/award.png" height="30px">
-Sara Salimzadeh, David Maxwell and Claudia Hauff. *The Impact of Entity Cards on Learning-Oriented Search Tasks*, accepted at ICTIR 2021. <span style="color:red">It received an "Honorable Mention for Best Student Paper."</span>  [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Salimzadeh.pdf)
+<img src="../img/honorable.png" height="30px">
+Sara Salimzadeh, David Maxwell and Claudia Hauff. *The Impact of Entity Cards on Learning-Oriented Search Tasks*, accepted at ICTIR 2021. <span style="color:red">It received an "Honorable Mention" for Best Student Paper.</span>  [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Salimzadeh.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Peide Zhu and Claudia Hauff. *Evaluating BERT-based Rewards for Question Generation with Reinforcement Learning*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Zhu.pdf)
@@ -167,7 +167,7 @@ Daniel Davis, Ioana Jivet, René Kizilcec, Guanliang Chen, Claudia Hauff and Gee
 [[PDF Preprint&#8594;]](../documents/publications/LAK2017-davis.pdf) [[ACM Portal&#8594;]](http://dl.acm.org/citation.cfm?id=3027411)
 
 
-## 2016 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
+## 2016 <img src="../img/award.png" height="30px"><img src="../img/honorable.png" height="30px">
 
 <img src="../img/journal-article.png" height="20px">
 Guanliang Chen, Dan Davis, Markus Krause, Efthimia Aivaloglou, Claudia Hauff and Geert-Jan Houben. *Can Learners be Earners? Investigating a Design to Enable MOOC Learners to Apply their Skills and Earn Money in an Online Market Place*, accepted as regular article (12 pages) at the [IEEE Transactions on Learning Technologies](https://www.computer.org/web/tlt/). [[Blog post&#8594;]]({% post_url 2016-09-27-from-learners-to-earners %}) [[PDF Preprint&#8594;]](../documents/publications/TLT2016-chen.pdf) [[TLT article&#8594;]](http://ieeexplore.ieee.org/abstract/document/7579220/)
@@ -228,7 +228,7 @@ Jie Yang, Claudia Hauff, Geert-Jan Houben and Christiaan Titos Bolivar.
 
 
 <img src="../img/conference-paper.png" height="20px">
-<img src="../img/award.png" height="30px">
+<img src="../img/honorable.png" height="30px">
 Guanliang Chen, Dan Davis, Claudia Hauff and Geert-Jan Houben, 
 *Learning Transfer: does it take place in MOOCs?*,
 [ACM Learning At Scale](http://learningatscale.acm.org/las2016/), pp. 409-418, 2016.
