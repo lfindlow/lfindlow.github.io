@@ -3,17 +3,23 @@ layout: page
 title: Teaching
 ---
 
-## MSc thesis supervision
+## BSc and MSc thesis supervision
 
-I am supervising students who conduct research in *information retrieval* and *natural language processing*. For both research directions, taking a look at papers at recent conferences (such as SIGIR, CIKM, WSDM, EMNLP, ACL) and ongoing benchmark efforts (MSMarco, SQUAD 2.0, GLUE, decaNLP, TREC) will help to figure out a topic of interest.
+I am supervising BSc and MSc projects in the broad areas of *information retrieval*, *natural language processing* and *data science*. Across BSc and MSc, I have supervised more than 45 projects. For all research directions, taking a look at papers at recent conferences (such as SIGIR, CIKM, WSDM, EMNLP, ACL, KDD) and ongoing benchmark efforts (MSMarco, SQUAD 2.0, GLUE, decaNLP, TREC, Kaggle) may help you to figure out a topic of interest.
 
-I also have a set of topics that I am ready to give away:
-- Evaluate the usability of [Macaw](https://arxiv.org/pdf/1912.08904.pdf), a recently inroduced Conversational Information Seeking Platform, possibly extend it and run an interactive IR study with it.
-- Extend [SearchX](https://github.com/felipemoraes/searchx), a collaborative search engine we built in-house, with shared workspace capabilities and run an interactive IR study with it.
-- Analyze the effectiveness of multi-task learning for different IR tasks.
-- Evaluate the use of efficient context-sensitive embedding approaches (variations of BERT & Co that do not rely on hundreds of millions of parameters) for different IR tasks and under performance constraints.
-- Design, build and evaluate an extension to Visual Studio Code that enables information seeking for programming tasks directly in the IDE.
-- Investigate UI elements that make collaborative search in the mobile setting (where screen space is a premium) a real possibility.
+To give you a few concrete ideas, here are a number of thesis projects I supervised in recent years:
+
+- [The Impact of Group Size on Collaborative Search](http://resolver.tudelft.nl/uuid:d820f21f-66b0-44c0-9678-283134baca5b) (MSc)
+- [The Learning Tracker](http://resolver.tudelft.nl/uuid:f6c2ede4-a4e3-4ff0-b681-b0d057854e3c) (MSc)
+- [Context-Based Spelling Correction for the Dutch Language: Applied on spelling errors extracted from the Dutch Wikipedia revision history](http://resolver.tudelft.nl/uuid:39069582-d34b-4586-bb46-92ea49b07b57) (MSc)
+- [A Multi-Language Comparison of Influences on Author Verification using Character N-Grams](http://resolver.tudelft.nl/uuid:47d8d028-6ec2-4b75-b380-0c4c0ae58c5d) (MSc)
+- [Evaluating Collaborative Search for a Learning-Oriented Search Task](http://resolver.tudelft.nl/uuid:5e23ca23-1691-463e-bce4-cea3aa8b6946) (MSc)
+- [MANtIS: a novel information seeking dialogues dataset](http://resolver.tudelft.nl/uuid:0ab2d1e4-385e-43cf-9883-cfc6c2f3f19c) (MSc)
+- [Axiomatic Thinking in Neural IR](http://resolver.tudelft.nl/uuid:3a825598-e4b3-4865-ac3f-07172afa7ec1) (MSc)
+- [Presenting Web Search Results over a Speech-Only Channel with Minimal Cognitive Load](http://resolver.tudelft.nl/uuid:c0dd4855-2ae5-413a-88c0-20296710d597) (BSc)
+- [Expanding LogUI: Adding Screen Capturing and a Statistical Analysis Dashboard for Web-Based Experiments](http://resolver.tudelft.nl/uuid:c9ae03b2-42ca-4398-9c72-5f1a62309d93) (Bsc)
+- [EGA Membership Card System](http://resolver.tudelft.nl/uuid:83e33bda-db48-405d-9830-b095d9cb28c3) (BSc)
+- [Search Assistant: Effect of Chatbot on User's Collaborative Search Behavior](http://resolver.tudelft.nl/uuid:bfdb053c-2f4a-4943-b382-6085cfcbbae6) (BSc)
 
 ## Courses
  
