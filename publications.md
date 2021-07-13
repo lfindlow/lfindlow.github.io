@@ -5,7 +5,7 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
-## 2021 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
+## 2021 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px">
 
 <img src="../img/workshop-paper.png" height="20px">
 Felipe Moraes, David Maxwell and Claudia Hauff, *Exploring Collaborative Navigation Support in Collaborative Product Search*, accepted at the ACM SIGIR Workshop on eCommerce 2021.
@@ -13,8 +13,9 @@ Felipe Moraes, David Maxwell and Claudia Hauff, *Exploring Collaborative Navigat
 <img src="../img/conference-paper.png" height="20px"> 
 Nirmal Roy, Arthur Barbosa Câmara, David Maxwell and Claudia Hauff. *Incorporating Widget Positioning in Interaction Models of Search Behaviour*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Roy.pdf)
 
-<img src="../img/conference-paper.png" height="20px"> 
-Sara Salimzadeh, David Maxwell and Claudia Hauff. *The Impact of Entity Cards on Learning-Oriented Search Tasks*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Salimzadeh.pdf)
+<img src="../img/conference-paper.png" height="20px">
+<img src="../img/award.png" height="30px">
+Sara Salimzadeh, David Maxwell and Claudia Hauff. *The Impact of Entity Cards on Learning-Oriented Search Tasks*, accepted at ICTIR 2021. <span style="color:red">It received an "Honorable Mention for Best Student Paper."</span>  [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Salimzadeh.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Peide Zhu and Claudia Hauff. *Evaluating BERT-based Rewards for Question Generation with Reinforcement Learning*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Zhu.pdf)
