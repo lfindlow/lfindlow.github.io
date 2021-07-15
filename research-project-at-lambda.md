@@ -234,6 +234,10 @@ If you are working with a 2-column template layout, you sometimes may need to us
 \end{table*}
 ```
 
+### Explaining mathematical concepts
+
+Take a look [here](https://betterexplained.com/articles/colorized-math-equations/) for an idea of how to use colors to make explanations of formulas more clear.
+
 ### Spreadsheet table to LaTeX table
 
 If you have a spreadsheet (e.g. to keep track of results), porting it to LaTeX is easy and requires very little work from your side; various online converters exist, e.g. https://www.tablesgenerator.com/.
