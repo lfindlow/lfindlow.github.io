@@ -87,7 +87,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## <img src="../img/orga.png" height="50px"> Organizational duties and activities
-- Invited talk at the [Sim4IR workshop](https://sim4ir.org/) (July 2021)
+- Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the [Sim4IR workshop](https://sim4ir.org/) (July 2021)
 - Invited talk at the Algorithmic Targeted Communication workshop (June 2021) 
 - Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the BBC Data Dates Series (May 2021)
 - Invited talk ([slides](https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&loop=false&delayms=3000)) at the UMass CIIR Talk series (04/2021)
