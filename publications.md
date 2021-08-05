@@ -7,10 +7,11 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2021 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px"><img src="../img/honorable.png" height="30px">
 
+<img src="../img/conference-paper.png" height="20px"> 
+David Maxwell and Claudia Hauff. *Contemporary Web-Based Interaction Logging Infrastructure: Discussing the Achievements and Remaining Developmental Challenges of LogUI*, accepted at DESIRES 2021.
+
 <img src="../img/workshop-paper.png" height="20px">
 Felipe Moraes, David Maxwell and Claudia Hauff, *Exploring Collaborative Navigation Support in Collaborative Product Search*, accepted at the ACM SIGIR Workshop on eCommerce 2021. [[PDF&#8594;]](https://sigir-ecom.github.io/ecom21Papers/paper10.pdf)
-
-
 
 <img src="../img/conference-paper.png" height="20px"> 
 Nirmal Roy, Arthur Barbosa Câmara, David Maxwell and Claudia Hauff. *Incorporating Widget Positioning in Interaction Models of Search Behaviour*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Roy.pdf)
