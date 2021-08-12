@@ -45,7 +45,7 @@
 
 ## Presenting your work
 - To a Twitter audience via [Twitter posters](https://twitter.com/mikemorrison/status/1242445150619607040)
-- Once you are ready to make slides or a poster, check out [https://color.adobe.com/explore](https://color.adobe.com/explore) to find a color scheme you like. [Paul Tol's notes](https://personal.sron.nl/~pault/) on color schemes suitable for different types of plots with color blindness issues in mind are also useful.
+- Once you are ready to make slides or a poster, I suggest to use Google Slides as this makes collaboration/commenting easy. You do not have to invent a template from scratch, [Slides Carneval](https://www.slidescarnival.com) has plenty of free templates to choose from (consider the *formal* and *simple* categories). If you want to go down your own route, head to [Adobe Color](https://color.adobe.com/explore) to find a color scheme you like. [Paul Tol's notes](https://personal.sron.nl/~pault/) on color schemes suitable for different types of plots with color blindness issues in mind are also useful.
 
 ## Organizing your thoughts/ideas
 - [Obsidian](https://obsidian.md)
@@ -65,7 +65,7 @@
 
 The [Overleaf documentation](https://www.overleaf.com/learn) is quite handy to get started with LaTeX. 
 
-### Which template?
+### Which report template?
 
 In information retrieval most conferences use the 2-column ACM format. Luckily, [Overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty) has this available as already. [Overleaf](https://www.overleaf.com) is a collaborative cloud-based LaTeX editor for which all TU Delft students and staff [have a professional account](https://www.overleaf.com/edu/tudelft).
 
