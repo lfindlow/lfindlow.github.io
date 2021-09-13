@@ -14,6 +14,7 @@
 
 
 ## Material to read in preparation of your project
+- [Differences between undergraduate work and graduate research](https://twitter.com/cesifoti/status/1437043299852996608)
 - [How to get unstuck in your research](https://twitter.com/jbhuang0604/status/1419880122006519809)
 - [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)
 - [IR anthology](https://ir.webis.de/anthology/): an overview of recent IR conference proceedings.
