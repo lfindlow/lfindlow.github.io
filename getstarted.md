@@ -71,7 +71,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 <style>
 
 .gs-section-01 h1 { 
-     color: red }
+     color: red; }
 
 .gs-section-01 p {
      font-size: 10px;
@@ -90,7 +90,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 <style>
 
 .gs-section-02 h2 { 
-     color: blue }
+     color: blue; }
 
 .gs-section-02 p {
      font-size: 20px;
@@ -109,7 +109,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 <style>
 
 .gs-section-03 h3 { 
-     color: green }
+     color: green; }
 
 .gs-section-03 p {
      font-size: 30px;
@@ -130,7 +130,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 <style>
 
 .gs-section-04 h4 { 
-     color: purple }
+     color: purple; }
 
 .gs-section-04 p {
      font-size: 40px;
