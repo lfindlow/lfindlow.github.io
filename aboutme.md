@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     ###  
     ###  ---
     ###  layout: page
-    ###  title: About the Site
+    ###  title: About Me
     ###  ---
     ###
 
