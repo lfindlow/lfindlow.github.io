@@ -22,8 +22,8 @@ gosling:
 ---
 
 
-![]({{![ryan-v-ryan](https://user-images.githubusercontent.com/69397099/133946742-5c9a7b2d-7f35-4e7d-be46-882b4d255088.jpeg)
-}}/assets/img/ryan-v-ryan.jpg)  
+![]({{![ryan-v-ryan](http![ryan-v-ryan](https://user-images.githubusercontent.com/69397099/133946832-cb9f6d34-0bda-4b0b-83d0-2583bac777a2.jpeg)
+s://}}/assets/img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
