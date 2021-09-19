@@ -28,9 +28,9 @@ description: CPP 527 - Lab 05
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "getstarted" 
+  * Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  * Learn markdown: "http://www.markdowntutorial.com/"
+  * Getting Started: "getstarted" 
   Table Demo: "table-demo"   
   Author's home: "http://deanattali.com"  
  
