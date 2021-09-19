@@ -66,13 +66,56 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
+<div class="gs-section-01" markdown="1">
+
+<style>
+
+.gs-section-01 h1 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 10px;
+}
+
+</style>
+
 ### 1. Fork this project
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
+</div>
+
+<div class="gs-section-02" markdown="1">
+
+<style>
+
+.gs-section-02 h2 { 
+     color: blue }
+
+.gs-section-02 p {
+     font-size: 20px;
+}
+
+</style>
+
 ### 2. Rename the project to `<yourusername>.github.io`
 
 Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
+
+</div>
+
+<div class="gs-section-03" markdown="1">
+
+<style>
+
+.gs-section-03 h3 { 
+     color: green }
+
+.gs-section-03 p {
+     font-size: 30px;
+}
+
+</style>
 
 ### 3. Customize your website settings
 
@@ -80,11 +123,28 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, c
 
 Note that in the video above only one setting in the `_config.yml` file is edited. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 
+</div>
+
+<div class="gs-section-04" markdown="1">
+
+<style>
+
+.gs-section-04 h4 { 
+     color: purple }
+
+.gs-section-04 p {
+     font-size: 40px;
+}
+
+</style>
+
 ### 4. Congratulations! You have a website!
 
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
+
+</div>
 
 ## The hard way (using ruby gems)
 
@@ -223,3 +283,43 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
+
+<style>
+
+footer {
+  color:white;
+  height: 900px;
+  background-color: #696969;
+  padding-top: 50px;
+  font-family: Verdana,sans-serif;
+  font-size: 15px;
+  line-height: 1.65;
+  text-decoration: none;
+  text-align: center;
+}
+  
+footer a {
+  color: orange;
+  font-size: 16px;
+}
+
+.footer-list {
+	display: block;
+	text-align: left;
+	margin-left: 90px;
+	}
+	
+pre{
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  margin-bottom: 5px;
+  padding: 5px;
+  background-color: #eee;
+  width: 750px!ie7;
+  padding-bottom: 10px!ie7;
+  color: black;
+  text-align: left;
+  font-size: 13px;
+	
+}
+  
+</style>
