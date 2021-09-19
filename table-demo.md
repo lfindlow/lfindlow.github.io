@@ -22,8 +22,7 @@ gosling:
 ---
 
 
-
-
+<img src="../img/ryan-v-ryan.jpeg" height="300px">
 ![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
 
 
