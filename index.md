@@ -5,7 +5,7 @@ subtitle: CPP 527 - Lab 05
 use-site-title: true
 ---
 
-## <img src="../img/fireworks.png" height="30px"> Quick Facts
+## <img src="../img/fireworks.png" height="50px"> Quick Facts
 - Pursuing a Master's degree
 - Work in Higher Education
 
