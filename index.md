@@ -12,8 +12,8 @@ use-site-title: true
 
 ## <img src="../img/career.png" height="50px"> Hobbies
 
-- Travel - Next on my [bucketlist!](https://travel.usnews.com/rankings/best-places-to-visit-in-japan/)
-- Food - What's your favorite [cuisine?](https://www.bbc.co.uk/food/cuisines)
-- Reading - Let me know if you've read any of these [titles.](https://www.nytimes.com/books/best-sellers/)
+- **Travel** - Next on my [bucketlist!](https://travel.usnews.com/rankings/best-places-to-visit-in-japan/)
+- **Food** - What's your favorite [cuisine?](https://www.bbc.co.uk/food/cuisines)
+- **Reading** - Let me know if you've read any of these [titles.](https://www.nytimes.com/books/best-sellers/)
 
 
