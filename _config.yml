@@ -90,6 +90,7 @@ paginate_path: "blog/page:num"
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Amsterdam"
 markdown: kramdown
+theme: minima
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
