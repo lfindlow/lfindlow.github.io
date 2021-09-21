@@ -70,7 +70,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 <style>
 
-.gs-section-01 h1 { 
+.gs-section-01 h3 { 
      color: #8B0000 }
 
 .gs-section-01 p {
@@ -89,7 +89,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 <style>
 
-.gs-section-02 h2 { 
+.gs-section-02 h3 { 
      color: #9932CC }
 
 .gs-section-02 p {
@@ -129,7 +129,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 <style>
 
-.gs-section-04 h4 { 
+.gs-section-04 h3 { 
      color: #1E90FF }
 
 .gs-section-04 p {
