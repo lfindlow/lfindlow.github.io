@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #191970;
+  color: #DB7093;
 }
 a:hover,
 a:focus {
@@ -94,8 +94,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: ##48D1CC
-  border-bottom: 1px solid ##48D1CC
+  background: #48D1CC
+  border-bottom: 1px solid #48D1CC
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -115,7 +115,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #C71585;
+  color: #DB7093;
 }
 
 @media only screen and (max-width: 480px){
