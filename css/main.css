@@ -94,8 +94,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: ##F5FFFA
-  border-bottom: 1px solid #F5FFFA
+  background: #F5FFFA
+  border-bottom: 1px solid ##48D1CC
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
