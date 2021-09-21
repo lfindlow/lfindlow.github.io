@@ -15,14 +15,14 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #3CB371;
+  color: #F08080;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #3CB371;
+  color: #F08080;
 }
 a:hover,
 a:focus {
@@ -115,7 +115,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #ADD8E6;
+  color: #F08080;
 }
 
 @media only screen and (max-width: 480px){
