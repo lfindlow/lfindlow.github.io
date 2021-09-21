@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #FE9000;
+  color: #191970;
 }
 a:hover,
 a:focus {
@@ -94,8 +94,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #48D1CC
-  border-bottom: 1px solid #48D1CC
+  background: ##F5FFFA
+  border-bottom: 1px solid #F5FFFA
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
