@@ -94,8 +94,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #48D1CC
-  border-bottom: 1px solid #48D1CC
+  background: #ADD8E6; 
+  border-bottom: 1px solid #ADD8E6;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -115,7 +115,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #DB7093;
+  color: #ADD8E6;
 }
 
 @media only screen and (max-width: 480px){
@@ -192,14 +192,14 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #48D1CC
-  border-top: 1px #48D1CC solid
+  background: #ADD8E6;
+  border-top: 1px #ADD8E6 solid;
   margin-top: 50px;
   font-size: 14px;
 }
 
 footer a {
-  color: #48D1CC
+  color: #ADD8E6;
 }
 
 footer .list-inline {
