@@ -64,8 +64,6 @@ Getting started is *literally* as easy as 1-2-3 :smile:
 
 Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps. If you don't already have a [GitHub account](https://github.com/join), you'll need to sign up.
 
-![Installation steps](assets/img/install-steps.gif)
-
 <div class="gs-section-01" markdown="1">
 
 <style>
@@ -289,7 +287,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 footer {
   color:white;
   height: 900px;
-  background-color: #696969;
+  background-color: #ADD8E6;
   padding-top: 50px;
   font-family: Verdana,sans-serif;
   font-size: 15px;
@@ -299,7 +297,7 @@ footer {
 }
   
 footer a {
-  color: orange;
+  color: #F08080;
   font-size: 16px;
 }
 
